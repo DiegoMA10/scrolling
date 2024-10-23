@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="description_theRock">Dwayne Douglas Johnson (Hayward, California, 2 de mayo de 1972), conocido como The Rock, o La Roca, es un actor, luchador profesional y empresario estadounidense.1</string>
+    <string name="the_rock">THE ROCK</string>
+    <string name="foto_de_will">Foto de Will</string>
+    <string name="description_will">Willard Carroll Smith (Filadelfia, Pensilvania; 25 de septiembre de 1968), más conocido como Will Smith,es un actor, rapero y productor de cine estadounidense. Ha tenido éxito en sus dos facetas artísticas</string>
+    <string name="will_smith">Will Smith</string>
+    <string name="foto_de_rock">Foto de rock</string>
+    <string name="foto_de_cristiano_ronaldo">foto de cristiano ronaldo</string>
+    <string name="description_cristiano_ronaldo">Cristiano Ronaldo dos Santos Aveiro (Funchal, Madeira; 5 de febrero de 1985) es un futbolista portugués. Juega como delantero y su equipo actual es el Al-Nassr F. C. de la Liga Profesional Saudí.</string>
+    <string name="cristiano_ronaldo">Cristiano Ronaldo</string>
+    <string name="description_potter">Daniel Jacob Radcliffe (Fulham, Inglaterra, 23 de julio de 1989) es un actor británico, principalmente conocido por haber protagonizado la saga cinematográfica de Harry Potter.</string>
+    <string name="daniel_radcliffe">Daniel Radcliffe</string>
+    <string name="foto_de_potter">Foto de Potter</string>
+</resources>
